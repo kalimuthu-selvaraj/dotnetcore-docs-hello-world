@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'frescowebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A7649632AE249EB8F6561983754C0C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA0DC19ACCE24BFDBC98D23F2F77964D }}
           package: .
